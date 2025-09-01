@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=junaid-khan28" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=junaid-k3" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Junaid Khan</h1>
@@ -42,7 +42,7 @@ Currently focused on building job platforms, interactive learning games, and imp
 
 ### 🚀 Projects
 
-#### 🍳 [CodeKitchen – Educational Programming Game](https://github.com/junaid-khan28/code-kitchen-quest)
+#### 🍳 [CodeKitchen – Educational Programming Game](https://github.com/junaid-k3/code-kitchen-quest)
 
 **Frontend**: React 18 + TypeScript + Tailwind + ShadCN/UI  
 **Concept**: Learn programming fundamentals through a cooking-themed interactive coding platform.  
@@ -77,10 +77,10 @@ Currently focused on building job platforms, interactive learning games, and imp
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=junaid-khan28&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=junaid-khan28&show_icons=true&theme=react&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=junaid-k3&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=junaid-k3&show_icons=true&theme=react&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid-khan28&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid-k3&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ Currently focused on building job platforms, interactive learning games, and imp
   <a href="https://leetcode.com/u/junaidify/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://github.com/junaid-khan28" target="_blank">
+  <a href="https://github.com/junaid-k3" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
