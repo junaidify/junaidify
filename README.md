@@ -11,6 +11,8 @@
   <h2><b>Full-Stack Web Developer || DevOps Engineer from India</b></h2>
 </div>
 
+<br />
+
 <p align="center">
   Email Me 👉 ✉️ <b>junaidkhan23785@gmail.com</b> For Collaboration/Project or Anything Else. 😊😊
 </p>
@@ -33,7 +35,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/junaid_khan_28" target="_blank">
+  <a href="https://instagram.com/junaid.khan_28" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/junaidify/" target="_blank">
