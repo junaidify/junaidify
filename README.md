@@ -2,7 +2,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=junaidify" />
 </div>
 
-# 💫 Hi 👋, I'm Junaid Khan
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Junaid+Khan" alt="Typing SVG" />
+  </a>
+</div>
+
 ### A passionate Full-Stack Web Developer || DevOps Engineer from India
 
 Email Me 👉 ✉️ junaidkhan23785@gmail.com For Collaboration/Project or Anything Else. 😊😊
@@ -11,8 +16,7 @@ Email Me 👉 ✉️ junaidkhan23785@gmail.com For Collaboration/Project or Anyt
 - 🌱 I'm currently learning: **LangChain** and **RAG (Retrieval-Augmented Generation)**
 - 👯 I'm looking to collaborate on: **Open-Source Projects**
 - 💬 Ask me about: **React, Redux, Chakra UI, Material UI, Tailwind CSS, Node.js, Express, MongoDB, MySQL, PostgreSQL, JavaScript, TypeScript, Java (DSA), Python (AI)**
-- 📫 How to reach me: **junaidkhan23785@gmail.com**
-- 😄 Pronouns: **He/Him**
+-  Pronouns: **He/Him**
 - ⚡ Fun fact: When I'm not coding, I'm either helping someone debug or imagining how everyday things could be "automated" with a script. I love building things that feel like magic — one line of code at a time.
 
 ---
@@ -25,14 +29,6 @@ Email Me 👉 ✉️ junaidkhan23785@gmail.com For Collaboration/Project or Anyt
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junaidify/junaidify/output/github-contribution-grid-snake.svg" />
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junaidify/junaidify/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=junaidify&theme=react&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 ---
@@ -100,18 +96,10 @@ Email Me 👉 ✉️ junaidkhan23785@gmail.com For Collaboration/Project or Anyt
 
 ---
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-</div>
-
----
-
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=junaidify&limit=5&theme=react&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=junaidify&limit=2&theme=react&combine_all_yearly_contributions=true" />
 </div>
 
 ---
