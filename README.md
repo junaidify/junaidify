@@ -1,112 +1,121 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=junaid-k3" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=junaidify" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Junaid Khan</h1>
-<h3 align="center">Full-Stack Web Developer | Building Interactive Experiences with Code</h3>
+# 💫 Hi 👋, I'm Junaid Khan
+### A passionate Full-Stack Web Developer || DevOps Engineer from India
+
+Email Me 👉 ✉️ junaidkhan23785@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 I'm currently working on: **ResumeForge** – A smart resume builder website that helps craft professional resumes effortlessly
+- 🌱 I'm currently learning: **LangChain** and **RAG (Retrieval-Augmented Generation)**
+- 👯 I'm looking to collaborate on: **Open-Source Projects**
+- 💬 Ask me about: **React, Redux, Chakra UI, Material UI, Tailwind CSS, Node.js, Express, MongoDB, MySQL, PostgreSQL, JavaScript, TypeScript, Java (DSA), Python (AI)**
+- 📫 How to reach me: **junaidkhan23785@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: When I'm not coding, I'm either helping someone debug or imagining how everyday things could be "automated" with a script. I love building things that feel like magic — one line of code at a time.
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a passionate full-stack web developer from India who thrives on building responsive, dynamic, and scalable web applications.
-
-Currently focused on building job platforms, interactive learning games, and improving my problem-solving through DSA in Java. I'm also learning **Rust** to expand my systems programming knowledge and broaden my language toolkit.
-
----
-
-### 🚧 Currently Working On
-
-- 🛠️ **CareerBridge** – A unique platform where job seekers apply only after mock interviews and assessments.  
-  - Personalized job suggestions from parsed resumes  
-  - Status tracker for job applications  
-  - JWT-based authentication with role-based access  
-  - Internship finder with filters
-
----
-
-### 🧠 Tech Stack
-
-#### **Frontend**
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Redux`  
-`Chakra UI` `Material UI` `Bootstrap`
-
-#### **Backend**
-`Node.js` `Express.js` `MongoDB` `MySQL`  
-`JWT` `REST API` `Axios`
-
-#### **Other Skills**
-`Java` (for DSA) | Currently learning: `Rust`
-
----
-
-### 🚀 Projects
-
-#### 🍳 [CodeKitchen – Educational Programming Game](https://github.com/junaid-k3/code-kitchen-quest)
-
-**Frontend**: React 18 + TypeScript + Tailwind + ShadCN/UI  
-**Concept**: Learn programming fundamentals through a cooking-themed interactive coding platform.  
-**Key Features**:
-- Real-time code editor with culinary metaphors (Ingredients = Variables, Recipes = Functions, etc.)
-- Levels: Prep Cook → Line Cook → Sous Chef
-- XP system, animated feedback, mobile responsiveness, accessibility support  
-**Advanced Topics**: Sandboxed JS execution, React Query, custom hooks, performance optimizations
-
-#### 🍷 [Thirsty Wine – Wine Discovery Platform](https://github.com/Adit704/PayPal-Pioneers_068)
-
-**Fullstack**: React + Chakra UI + Redux + JSON Server (Mock API)  
-**Concept**: Explore, review, and purchase wines.  
-**Key Features**:
-- Wine catalog with filters, ratings, and comments  
-- User login/signup + wishlist + cart functionality  
-- Admin dashboard for managing products (CRUD)
-
-#### 🎯 [CareerBridge – Job Seeker Platform] _(In Development)_
-
-**Tech**: React, Node.js, MongoDB, JWT  
-**Concept**: Job seekers can only apply after completing a mock interview and assessment.  
-**Planned Features**:
-- Resume parsing → skill extraction  
-- Personalized job suggestions  
-- Application tracking dashboard  
-- Internship listings + advanced filters  
-- Role-based authentication (Admin, Seeker)
-
----
-
-### 📊 GitHub Stats
+### 🐍 Snake Animation
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=junaid-k3&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=junaid-k3&show_icons=true&theme=react&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junaidify/junaidify/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junaidify/junaidify/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junaidify/junaidify/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=junaidify&theme=react&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+### 💻 Tech Stack:
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=junaidify&show_icons=true&theme=react&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=junaidify&theme=react&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
   <br />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid-k3&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidify&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
 
-### 📬 Contact & Links
+### 🌐 Socials:
 
 <div align="center">
-  <a href="mailto:junaidkhan23785@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/junaid_khan_28" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/junaidify-khan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/junaidify/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://github.com/junaid-k3" target="_blank">
+  <a href="https://github.com/junaidify" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:junaidkhan23785@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 💡 Fun Fact
+### ✍️ Random Dev Quote
 
-When I'm not coding, I'm either helping someone debug or imagining how everyday things could be "automated" with a script. I love building things that feel like magic — one line of code at a time.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
+</div>
 
 ---
 
+### 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=junaidify&limit=5&theme=react&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-%F0%9F%92%96-blue?style=for-the-badge" />
+</div>
