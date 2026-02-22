@@ -73,10 +73,10 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=junaidify&show_icons=true&theme=react&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats-five-lac-31.vercel.app/api?username=junaidify&show_icons=true&theme=react&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <img width="390" src="https://streak-stats.demolab.com?user=junaidify&theme=react&border_radius=10" alt="GitHub Streak Stats" />
   <br />
-  <img width="325" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=junaidify&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats-five-lac-31.vercel.app/api/top-langs?username=junaidify&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
