@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Junaid+Khan" alt="Typing SVG" />
   </a>
-  <h2><b>Full-Stack Web Developer || DevOps Engineer from India</b></h2>
+  <p><strong>Full-Stack Web Developer || DevOps Engineer from India</strong></p>
 </div>
 
 <p align="center">
@@ -23,6 +23,8 @@
 - ⚡ Fun fact: When I'm not coding, I'm either helping someone debug or imagining how everyday things could be "automated" with a script. I love building things that feel like magic — one line of code at a time.
 
 ---
+
+<br />
 
 <!-- ─────────────── 2. SOCIAL MEDIA HANDLES ─────────────── -->
 
@@ -46,6 +48,8 @@
 
 ---
 
+<br />
+
 <!-- ─────────────── 3. TECH STACK ─────────────── -->
 
 <h3 align="center">💻 Tech Stack:</h3>
@@ -68,6 +72,8 @@
 
 ---
 
+<br />
+
 <!-- ─────────────── 4. GITHUB STATS ─────────────── -->
 
 <h3 align="center">📊 GitHub Stats:</h3>
@@ -80,6 +86,8 @@
 </div>
 
 ---
+
+<br />
 
 <!-- ─────────────── 5. SNAKE ANIMATION ─────────────── -->
 
