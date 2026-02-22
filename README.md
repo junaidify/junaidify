@@ -8,14 +8,16 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Junaid+Khan" alt="Typing SVG" />
   </a>
-  <p><strong>Full-Stack Web Developer || DevOps Engineer from India</strong></p>
+  <h3>Full-Stack Web Developer || DevOps Engineer from India</h3>
 </div>
 
-<br /><br />
+<br />
 
 <p align="center">
   Email Me 👉 ✉️ <b>junaidkhan23785@gmail.com</b> For Collaboration/Project or Anything Else. 😊😊
 </p>
+
+<br />
 
 - 🔭 I'm currently working on: **ResumeForge** – A smart resume builder website that helps craft professional resumes effortlessly
 - 🌱 I'm currently learning: **LangChain** and **RAG (Retrieval-Augmented Generation)**
