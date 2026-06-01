@@ -53,14 +53,13 @@ I am a software developer specializing in Java backend systems and Python-based 
 
 <div align="center">
 
-  <!-- Streak -->
-  <img width="490" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=0d1117&ring=ff9800&fire=ff6e40&currStreakLabel=ff9800&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
+  <!-- Most Used Languages -->
+  <img width="340" src="https://github-readme-stats-five-lac-31.vercel.app/api/top-langs/?username=junaidify&layout=compact&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9" alt="Most Used Languages" />
 
   <br/><br/>
 
-  <!-- Activity Graph -->
-  <h3>📈 Contribution Activity</h3>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaidify&hide_border=true&bg_color=0d1117&color=c9d1d9&line=ff9800&point=ff6e40&area=true&area_color=ff9800&radius=10&custom_title=Junaid's%20Contribution%20Graph" alt="Activity Graph" />
+  <!-- Streak -->
+  <img width="490" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=0d1117&ring=ff9800&fire=ff6e40&currStreakLabel=ff9800&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
