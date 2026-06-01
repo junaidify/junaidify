@@ -32,14 +32,14 @@ I am a software developer specializing in Java backend systems and Python-based 
 <div align="center">
 
   <!-- Row 1: Stats + Spider Chart side-by-side -->
-  <img width="390" src="https://github-readme-stats-five-lac-31.vercel.app/api?username=junaidify&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&ring_color=61dafb" alt="GitHub Stats" />
-  <img width="340" src="./github-spider-chart.svg" alt="Most Used Languages — Spider Chart" />
+  <img width="390" src="https://github-readme-stats-five-lac-31.vercel.app/api?username=junaidify&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10&bg_color=1c1c1c&title_color=ffffff&icon_color=c9d1d9&text_color=c9d1d9&ring_color=c9d1d9" alt="GitHub Stats" />
+  <img width="340" src="./github-spider-chart.svg" alt="Contribution Breakdown — Spider Chart" />
 
   <!-- Row 2: Streak -->
-  <img width="390" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=0d1117&ring=61dafb&fire=ff6e40&currStreakLabel=61dafb&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
+  <img width="390" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=1c1c1c&ring=ff6e40&fire=ff6e40&currStreakLabel=ff6e40&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
 
   <!-- Row 3: Activity Graph -->
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaidify&theme=react-dark&hide_border=true&bg_color=0d1117&color=61dafb&line=61dafb&point=ff6e40&area=true&area_color=61dafb&radius=10" alt="Activity Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaidify&hide_border=true&bg_color=1c1c1c&color=c9d1d9&line=2ea043&point=ff6e40&area=true&area_color=2ea043&radius=10" alt="Activity Graph" />
 
 </div>
 
