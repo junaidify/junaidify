@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 440" width="460" height="440">
   <defs>
     <linearGradient id="areaFill" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2ea043" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#238636" stop-opacity="0.10"/>
+      <stop offset="0%" stop-color="#ff3b3b" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#cc2b2b" stop-opacity="0.10"/>
     </linearGradient>
     <filter id="glow">
       <feGaussianBlur stdDeviation="2" result="blur"/>
@@ -20,19 +20,19 @@
 
   <!-- Axes (cross pattern like the screenshot) -->
   <!-- Vertical axis (Code review top, Pull requests bottom) -->
-  <line x1="230" y1="60" x2="230" y2="380" stroke="#2ea043" stroke-width="1.5" opacity="0.6"/>
+  <line x1="230" y1="60" x2="230" y2="380" stroke="#ff3b3b" stroke-width="1.5" opacity="0.6"/>
   <!-- Horizontal axis (Commits left, Issues right) -->
-  <line x1="50" y1="220" x2="410" y2="220" stroke="#2ea043" stroke-width="1.5" opacity="0.6"/>
+  <line x1="50" y1="220" x2="410" y2="220" stroke="#ff3b3b" stroke-width="1.5" opacity="0.6"/>
 
   <!-- Short cross ticks at center -->
-  <line x1="220" y1="220" x2="240" y2="220" stroke="#2ea043" stroke-width="2" opacity="0.8"/>
-  <line x1="230" y1="210" x2="230" y2="230" stroke="#2ea043" stroke-width="2" opacity="0.8"/>
+  <line x1="220" y1="220" x2="240" y2="220" stroke="#ff3b3b" stroke-width="2" opacity="0.8"/>
+  <line x1="230" y1="210" x2="230" y2="230" stroke="#ff3b3b" stroke-width="2" opacity="0.8"/>
 
   <!-- Data polygon (Commits 59% left, Code review 14% top, Issues ~5% right, Pull requests 27% bottom) -->
   <polygon
     points="230,178 280,220 230,280 124,220"
     fill="url(#areaFill)"
-    stroke="#2ea043"
+    stroke="#ff3b3b"
     stroke-width="2"
     stroke-linejoin="round"
     filter="url(#glow)"
@@ -40,20 +40,20 @@
 
   <!-- Data points -->
   <!-- Code review (top) - 14% -->
-  <circle cx="230" cy="178" r="5" fill="#0d1117" stroke="#2ea043" stroke-width="2.5"/>
-  <circle cx="230" cy="178" r="2" fill="#2ea043"/>
+  <circle cx="230" cy="178" r="5" fill="#0d1117" stroke="#ff3b3b" stroke-width="2.5"/>
+  <circle cx="230" cy="178" r="2" fill="#ff3b3b"/>
 
   <!-- Issues (right) - small -->
-  <circle cx="280" cy="220" r="5" fill="#0d1117" stroke="#2ea043" stroke-width="2.5"/>
-  <circle cx="280" cy="220" r="2" fill="#2ea043"/>
+  <circle cx="280" cy="220" r="5" fill="#0d1117" stroke="#ff3b3b" stroke-width="2.5"/>
+  <circle cx="280" cy="220" r="2" fill="#ff3b3b"/>
 
   <!-- Pull requests (bottom) - 27% -->
-  <circle cx="230" cy="280" r="5" fill="#0d1117" stroke="#2ea043" stroke-width="2.5"/>
-  <circle cx="230" cy="280" r="2" fill="#2ea043"/>
+  <circle cx="230" cy="280" r="5" fill="#0d1117" stroke="#ff3b3b" stroke-width="2.5"/>
+  <circle cx="230" cy="280" r="2" fill="#ff3b3b"/>
 
   <!-- Commits (left) - 59% -->
-  <circle cx="124" cy="220" r="5" fill="#0d1117" stroke="#2ea043" stroke-width="2.5"/>
-  <circle cx="124" cy="220" r="2" fill="#2ea043"/>
+  <circle cx="124" cy="220" r="5" fill="#0d1117" stroke="#ff3b3b" stroke-width="2.5"/>
+  <circle cx="124" cy="220" r="2" fill="#ff3b3b"/>
 
   <!-- Labels -->
   <!-- Code review (top) -->
