@@ -12,21 +12,40 @@ I am a software developer specializing in Java backend systems and Python-based 
 
 ## 💻 Programming Languages & Tools
 
-**Languages:**&ensp;![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend:**&ensp;![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-**Payments & APIs:**&ensp;![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Design%20Patterns-blueviolet?style=for-the-badge)
-
-**Frontend:**&ensp;![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases:**&ensp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Auth:**&ensp;![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![bcrypt](https://img.shields.io/badge/bcrypt-%23003A70.svg?style=for-the-badge&logo=letsencrypt&logoColor=white) ![Google OAuth](https://img.shields.io/badge/Google%20OAuth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-
-**AI / ML:**&ensp;![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
-
-**Tools:**&ensp;![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<table>
+  <tr>
+    <td><strong>Languages:</strong></td>
+    <td><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
+  </tr>
+  <tr>
+    <td><strong>Backend:</strong></td>
+    <td><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></td>
+  </tr>
+  <tr>
+    <td><strong>Payments & APIs:</strong></td>
+    <td><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/> <img src="https://img.shields.io/badge/OOP-Design%20Patterns-blueviolet?style=for-the-badge" alt="OOP"/></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend:</strong></td>
+    <td><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+  </tr>
+  <tr>
+    <td><strong>Databases:</strong></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></td>
+  </tr>
+  <tr>
+    <td><strong>Auth:</strong></td>
+    <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/> <img src="https://img.shields.io/badge/bcrypt-%23003A70.svg?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="bcrypt"/> <img src="https://img.shields.io/badge/Google%20OAuth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth"/></td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML:</strong></td>
+    <td><img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/RAG-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white" alt="RAG"/></td>
+  </tr>
+  <tr>
+    <td><strong>Tools:</strong></td>
+    <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -34,15 +53,15 @@ I am a software developer specializing in Java backend systems and Python-based 
 
 <div align="center">
 
-  <!-- Row 1: Stats + Spider Chart side-by-side -->
-  <img width="390" src="https://github-readme-stats-five-lac-31.vercel.app/api?username=junaidify&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff3b3b&icon_color=ff3b3b&text_color=c9d1d9&ring_color=ff3b3b" alt="GitHub Stats" />
-  <img width="340" src="./github-spider-chart.svg" alt="Contribution Breakdown — Spider Chart" />
+  <!-- Row 1: Stats + Top Languages side-by-side -->
+  <img width="390" src="https://github-readme-stats-five-lac-31.vercel.app/api?username=junaidify&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff9800&icon_color=ff9800&text_color=c9d1d9&ring_color=ff9800" alt="GitHub Stats" />
+  <img width="340" src="https://github-readme-stats-five-lac-31.vercel.app/api/top-langs/?username=junaidify&layout=compact&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9" alt="Most Used Languages" />
 
   <!-- Row 2: Streak -->
-  <img width="390" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=0d1117&ring=ff3b3b&fire=ff6347&currStreakLabel=ff3b3b&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
+  <img width="390" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=0d1117&ring=ff9800&fire=ff6e40&currStreakLabel=ff9800&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
 
   <!-- Row 3: Activity Graph -->
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaidify&hide_border=true&bg_color=0d1117&color=c9d1d9&line=ff3b3b&point=ff6347&area=true&area_color=ff3b3b&radius=10" alt="Activity Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaidify&hide_border=true&bg_color=0d1117&color=c9d1d9&line=ff9800&point=ff6e40&area=true&area_color=ff9800&radius=10" alt="Activity Graph" />
 
 </div>
 
