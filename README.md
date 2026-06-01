@@ -53,13 +53,9 @@ I am a software developer specializing in Java backend systems and Python-based 
 
 <div align="center">
 
-  <!-- Most Used Languages -->
-  <img width="340" src="https://github-readme-stats-five-lac-31.vercel.app/api/top-langs/?username=junaidify&layout=compact&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9" alt="Most Used Languages" />
-
-  <br/><br/>
-
-  <!-- Streak -->
-  <img width="490" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=0d1117&ring=ff9800&fire=ff6e40&currStreakLabel=ff9800&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
+  <!-- Row 1: Most Used Languages + Streak side-by-side -->
+  <img width="390" src="https://github-readme-stats-five-lac-31.vercel.app/api/top-langs/?username=junaidify&layout=compact&hide_border=true&border_radius=10&bg_color=0d1117&title_color=ff9800&text_color=c9d1d9" alt="Most Used Languages" />
+  <img width="390" src="https://streak-stats.demolab.com?user=junaidify&hide_border=true&border_radius=10&background=0d1117&ring=ff9800&fire=ff6e40&currStreakLabel=ff9800&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
